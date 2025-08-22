@@ -4,13 +4,13 @@
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visando substituir os desktops obsoletos nos laboratórios e expandir as possibilidades de aprendizado para um modelo de ensino mais flexível e híbrido. A iniciativa busca equipar os alunos com ferramentas modernas e portáteis, essenciais para o desenvolvimento de habilidades digitais e para a adaptação às novas metodologias de ensino. A mobilidade dos notebooks otimizará o uso dos recursos tecnológicos em diferentes ambientes escolares e preparará os alunos para os desafios do mercado de trabalho, com um **investimento total estimado em R$ 165.750,00**.
+Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visando substituir os desktops obsoletos nos laboratórios e expandir as possibilidades de aprendizado para um modelo de ensino mais flexível e híbrido. A iniciativa busca equipar os alunos com ferramentas modernas e portáteis, essenciais para o desenvolvimento de habilidades digitais e para a adaptação às novas metodologias de ensino. A mobilidade dos notebooks otimizará o uso dos recursos tecnológicos em diferentes ambientes escolares e preparará os alunos para os desafios do mercado de trabalho, com um **investimento total estimado em R$ 152.550,00**.
 
 ---
 
 ## 2. Introdução e Justificativa
 
-O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 25 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
+O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 30 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
 
 A substituição desses desktops por notebooks modernos e portáteis é crucial. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
 
@@ -34,8 +34,8 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 | Componente           | Mínimo                                     | Recomendado                                        |
 | :------------------- | :----------------------------------------- | :------------------------------------------------- |
-| **Processador** | Intel Core i7 (12ª geração ou AMD Ryzen 7 6000U) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
-| **Memória RAM** | 16 GB DDR4 (3200 MHz)                      | 32 GB DDR4 (3200 MHz ou superior)                  |
+| **Processador** | Intel Core i5 (12ª geração ou AMD Ryzen 5 5000U) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
+| **Memória RAM** | 8 GB DDR4 (3200 MHz)                      | 16 GB DDR4 (3200 MHz ou superior)                  |
 | **Armazenamento** | SSD NVMe de 512 GB                         | SSD NVMe de 1 TB                                   |
 | **Tela** | 15.6" Full HD IPS                            | 15.6" Full HD IPS com alta fidelidade de cor       |
 | **Placa de Vídeo** | Integrada de alta performance (Intel Iris Xe ou AMD Radeon Graphics) | Dedicada (NVIDIA GeForce RTX 3050/4050 ou AMD Radeon RX) |
@@ -61,14 +61,14 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 | Item                             | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
-| **Notebook (Modelo Premium)** | 30         | 5.500,00                     | 165.000,00                |
+| **Notebook (Modelo Custo Benefício)** | 30         | 5.500,00                     | 147.000,00                |
 | Seguro contra acidentes (anual)  | 30         | 50,00                        | 1.500,00                  |
 | Sistema de rastreamento (licença/dispositivo) | 30         | 25,00                        | 750,00                    |
 | Licenças de Software (Pacote Educacional) | 30         | 50,00                        | 1.500,00                  |
 | Bolsas/Cases de Proteção (premium) | 30         | 35,00                        | 1.050,00                  |
 | Roteador Wi-Fi (para laboratório) | 1          | 500,00                       | 500,00                    |
 | Instalação e Configuração Inicial | 1          | 250,00                       | 250,00                    |
-| **TOTAL GERAL ESTIMADO** |            |                               | **165.750,00** |
+| **TOTAL GERAL ESTIMADO** |            |                               | **152.550,00** |
 
 ---
 
@@ -107,4 +107,4 @@ A aquisição dos novos notebooks trará impactos significativos para toda a com
 
 ## 8. Considerações Finais
 
-A aquisição de notebooks para substituir os computadores atuais do Polo Caucaia é um passo estratégico e fundamental para consolidar um ambiente de ensino dinâmico, moderno e alinhado às necessidades do século XXI. Os benefícios de mobilidade, desempenho superior e flexibilidade pedagógica justificarão plenamente o investimento. Com um **orçamento estimado de R$ 165.750,00**, que inclui importantes medidas de segurança como seguro e rastreamento, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
+A aquisição de notebooks para substituir os computadores atuais do Polo Caucaia é um passo estratégico e fundamental para consolidar um ambiente de ensino dinâmico, moderno e alinhado às necessidades do século XXI. Os benefícios de mobilidade, desempenho superior e flexibilidade pedagógica justificarão plenamente o investimento. Com um **orçamento estimado de R$ 152.550,00**, que inclui importantes medidas de segurança como seguro e rastreamento, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
