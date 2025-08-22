@@ -47,7 +47,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](note.png)
+![Exemplo de Notebook de Alto Desempenho](https://github.com/igorpaiva-uece/Projeto-Notebooks-Escola-IgorRodriguesPaiva/blob/9e30ffa2980485a1237d0b57ffeef687775f3bd5/note.png)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
